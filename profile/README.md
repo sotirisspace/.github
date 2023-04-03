@@ -5,7 +5,7 @@
 Μεταμορφώστε την επιχείρησή σας σε έναν ψηφιακό κολοσσό. To νούμερο 1 digital agency στην ελλάδα.
 
 - :books: Ανέπτυξε την διαδυκτιακή παρουσία, φτιάχτουμε custom λογισμικό για τράπεζες, ξενοδοχεία, εταιρείες marketing & μεταφορικές
-- :computer: Αναλαμβάνουμε το ηλεκλρονικό σου κατάστημα. Εβδομαδιαία post σε social media, φωτογράφιση προιόντων, διαχείριση ιστοσελίδας & Digital Marketing.
+- :computer: Αναλαμβάνουμε το ηλεκτρονικό σου κατάστημα. Εβδομαδιαία post σε social media, φωτογράφιση προιόντων, διαχείριση ιστοσελίδας & Digital Marketing.
 - :pushpin: UX, UI Design, Video Editing, Motion Graphics.
 
 Είμαστε ειδικοί σε όλες τις πλατφόρμες και τεχνολογίες.
@@ -19,7 +19,7 @@
 - reactjs
 
 Επικοινωνία
-- [KOUROUKLIS WEB LABS EMAIL](mailto:kourouklis@proton.me)
+- [kourouklis@pm.me](mailto:kourouklis@proton.me)
 - Τηλέφωνο επικοινωνίας [+30 6986673810](tel:+306986673810)
 
 Μερικοί συνεργάτες μας
