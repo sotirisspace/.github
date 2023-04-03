@@ -29,7 +29,7 @@
 - [Pola Damaniaou website](https://www.poladamianou.gr)
 - [Fashioncore.gr E-commerce website](https://fashioncore.gr)
 - [terapete.com E-commerce website](https://terapete.com)
-- [technried.gr E-commerce website](https://technride.gr)
+- [technride.gr E-commerce website](https://technride.gr)
 - [Biovida.gr E-commerce website](https://biovida.gr)
 
 ----
