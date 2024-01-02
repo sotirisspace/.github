@@ -1,5 +1,5 @@
 ## KOUROUKLIS WEB LABS
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kourouklis@proton.me)](mailto:kourouklis@proton.me)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kourouklis.personal@gmail.com)](mailto:kourouklis.personal@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@kourouklis8)](https://medium.com/@kourouklis8)
 
 Μεταμορφώστε την επιχείρησή σας σε έναν ψηφιακό κολοσσό. To νούμερο 1 digital agency στην ελλάδα.
@@ -19,7 +19,7 @@
 - reactjs
 
 Επικοινωνία
-- [kourouklis@pm.me](mailto:kourouklis@proton.me)
+- [kourouklis.personal@gmail.com](mailto:kourouklis.personal@gmail.com)
 - Τηλέφωνο επικοινωνίας [+30 6986673810](tel:+306986673810)
 
 Μερικοί συνεργάτες μας
