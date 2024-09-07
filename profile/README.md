@@ -1,8 +1,7 @@
 ## VUNGUARD VIRTUAL
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kourouklis.personal@gmail.com)](mailto:kourouklis@pm.me)
 
-Creating unique software with Shopify, PHP, Javascript, Docker and Kubernetes. We are based in Greece but we bring worldwide results.
-
+Create unique software that scales on the web.
 
 Contact
 - [kourouklis@pm.me](mailto:kourouklis@pm.me)
