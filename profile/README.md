@@ -5,7 +5,7 @@ We are a software development company that focuses on simplicity, speed and scal
 
 Our Christian values is the foundation of our company that help us build clean and maintainable software on a very fast pace.
 
-Want to work with us? Email us at [x@sotergreco.com](mailto:kourouklis@pm.me)
+Want to work with us? Email us at [kourouklis@pm.me](mailto:kourouklis@pm.me)
 
 Some of our Work
 - [Eatlink.gr](https://eatlink.gr)
